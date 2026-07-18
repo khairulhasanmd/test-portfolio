@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Portfolio of Khairul Hasan - Full Stack Developer" />
-    <title>Khairul Hasan &mdash; Portfolio</title>
+    <title>Portfolio Of Khairul Hasan</title>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
